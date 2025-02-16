@@ -1,2 +1,2 @@
 # Random.org-Android
-This was my first try working with KivyMD
+A simple Python app using KivyMD that helps users make decisions by generating a random number between 1 and 100. The app provides a quick and easy way to select a number when faced with multiple options, offering a fun and interactive approach to decision-making. This project serves as my first experience working with KivyMD, exploring basic UI elements and random number generation in a mobile-friendly application
